@@ -39,6 +39,7 @@ public class MainActivity extends AhoyOnboarderActivity {
         pages.add(ahoyOnboarderCard2);
         //pages.add(ahoyOnboarderCard3);
 
+
         setOnboardPages(pages);
     }
 
