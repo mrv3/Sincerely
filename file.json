@@ -1,0 +1,124 @@
+{
+  "Wallpapers": [
+    {
+      "collections": "featured,landscapes,people",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "author": "Someone",
+      "name": "ShotA"
+    },
+    {
+      "collections": "people,flower",
+      "dimensions": "3200x2560",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
+      "author": "Someone",
+      "name": "ShotB"
+    },
+    {
+      "collections": "landscapes,flower",
+      "copyright": "Credits to its creator",
+      "dimensions": "1280x720",
+      "name": "ShotC",
+      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
+      "author": "Someone"
+    },
+    {
+      "collections": "featured,landscapes,people,flower",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 1"
+    },
+    {
+      "collections": "featured,landscapes,people,technology",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 2"
+    },
+    {
+      "collections": "featured,technology,people",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 3"
+    },
+    {
+      "collections": "landscapes,people,flower",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 4"
+    },
+    {
+      "collections": "featured,landscapes",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 5"
+    },
+    {
+      "collections": "featured,people",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 6"
+    },
+    {
+      "collections": "landscapes,people",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 7"
+    },
+    {
+      "collections": "technology",
+      "copyright": "Free (do whatever you want)",
+      "dimensions": "3200x2560",
+      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
+      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
+      "author": "wallsplash",
+      "name": "Wallsplash 8"
+    }
+  ],
+  "Collections": [
+    {
+      "preview_thumbnail_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819587/Landscapes/lands_preview_tikvmq.jpg",
+      "preview_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819596/Landscapes/lands_full_uvr9qu.jpg",
+      "name": "Landscapes"
+    },
+    {
+      "preview_thumbnail_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819582/Flowers/flower_preview_tm1kos.jpg",
+      "preview_url": "http://res.cloudinary.com/vic-3e/image/upload/v1514819589/Flowers/flower_full_azh8y5.jpg",
+      "name": "Flower"
+    },
+    {
+      "preview_thumbnail_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819579/Technology/tech_preview_v9roiw.jpg",
+      "preview_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819580/Technology/tech_full_pzpv1z.jpg",
+      "name": "Technology"
+    },
+    {
+      "preview_thumbnail_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819586/People/people_preview_kkdjny.jpg",
+      "preview_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819592/People/people_full_fyfyvn.jpg",
+      "name": "People"
+    },
+    {
+      "preview_thumbnail_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819281/Faces/face_preview_vzjmqs.jpg",
+      "preview_url": "https://res.cloudinary.com/vic-3e/image/upload/v1514819291/Faces/face_full_fhmjed.jpg",
+      "name": "Faces"
+    }
+  ]
+}
